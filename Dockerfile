@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.1
+FROM index.alauda.cn/testbunker/docker-alpine
 VOLUME /mnt/routes
 EXPOSE 8000
 
